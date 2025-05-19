@@ -1,0 +1,10 @@
+when comment is addaed in jira:-
+      i'll just give a name for my particular job let me make it a freestyle job that's pretty good enough.
+And goto build triggers there is one option is Build when a comment is added jira click that option jql filter is project="you are project name (FIRSTONE)"
+Comment mapping(you can give you r  message ).
+go to Build  click on Execute Windows batch command Enter(echo " message") and save it.
+know you can run.
+know goto configure for same job
+go to build Triggers
+jql filter -project="project name (FIR)"
+jira fIELD ID: Status save it and build it
